@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business-Card</string>
+    <string name="business_card_full_name">Johnathan Adam Smith</string>
+    <string name="business_card_title">Wannabe Maker of Things</string>
+    <string name="business_card_phone_number">+84 (012) 345 6789</string>
+    <string name="business_card_social_media_handle">@socialmediahandle</string>
+    <string name="business_card_email">name@email.com</string>
+</resources>
