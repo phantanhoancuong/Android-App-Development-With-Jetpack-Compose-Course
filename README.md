@@ -1,2 +1,2 @@
 # Android-Basics-with-Compose
-A personal project repo for the Android Basics with Compose course by Android Developers
+A personal project repo for Google Developers Program Courses for Android App development using Kotlin and Jetpack Compose
